@@ -71,7 +71,7 @@ public class ProfileAdminPage {
     //Positive DELETE Doctor Work History Admin
     @Step("I set DELETE api endpoints Work History Admin")
     public String setDELETEApiEndpointWorkHistoryAdmin(){
-        return url + "admins/profile/work-history/15f53931-5fa5-42a1-95af-3f19cfa1208a";
+        return url + "admins/profile/work-history/c3d0c806-320b-4485-bf1f-8b6a49469764";
     }
 
     @Step("I send DELETE HTTP request Work History Admin")
@@ -134,7 +134,7 @@ public class ProfileAdminPage {
     //Positive DELETE Doctor education Admin
     @Step("I set DELETE api endpoints Education Admin")
     public String setDELETEApiEndpointEducationAdmin(){
-        return url + "admins/profile/education/18fced84-3e8b-4ce7-b8bb-999d7fc2d7ea";
+        return url + "admins/profile/education/197aa41e-67c6-4809-b29d-a030a865f15c";
     }
 
     @Step("I send DELETE HTTP request Education Admin")
@@ -204,7 +204,7 @@ public class ProfileAdminPage {
     //Positive DELETE Doctor Certification Admin
     @Step("I set DELETE api endpoints Certification Admin")
     public String setDELETEApiEndpointCertificationAdmin(){
-        return url + "admins/profile/certification/22438c38-d005-4c63-bffe-ce3a107f2a5c";
+        return url + "admins/profile/certification/ed8cd386-910a-4469-8da1-61e4a7ef5e49";
     }
 
 

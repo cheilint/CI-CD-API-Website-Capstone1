@@ -124,7 +124,7 @@ public class SpecialistPage {
     //Positive DELETE Specialists with ID
     @Step("I set DELETE api endpoints Specialists")
     public String setDELETEApiEndpointSpecialists(){
-        return url + "admins/specialists/22184195-b7dc-4714-9ea4-8cc9512260ae";
+        return url + "admins/specialists/ad525900-f9ad-4460-9c69-5faee95e1ced";
     }
 
     @Step("I send DELETE HTTP request Specialists")

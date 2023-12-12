@@ -104,7 +104,7 @@ public class ForumsPage {
     @Step("I send POST HTTP request Forum Replies")
     public void sendPostHttpRequestForumReplies() {
     JSONObject requestBody = new JSONObject();
-        requestBody.put("forum_id", "17bfac04-9644-46f1-8697-859b4235ca69");
+        requestBody.put("forum_id", "2713e589-61b2-4b78-84c3-6f549287704d");
         requestBody.put("content", "Manusia adalah spesies makhluk hidup yang termasuk dalam kelompok primata dan mamalia. Berikut adalah beberapa ciri-ciri ");
 
 
@@ -181,7 +181,7 @@ public class ForumsPage {
     //Positive DELETE forum replies
     @Step("I set DELETE endpoints Forum Replies")
     public String setDELETEApiEndpointForumReplies(){
-        return url + "doctors/forum-replies/0fdaf7ec-f405-46f4-bb7c-bf9ee96b068f";
+        return url + "doctors/forum-replies/ac3dec1e-0db6-411b-939b-661ebfd09ea7";
     }
 
     @Step("I send DELETE HTTP request Forum Replies")

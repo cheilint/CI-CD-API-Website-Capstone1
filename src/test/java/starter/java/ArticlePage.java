@@ -192,7 +192,7 @@ public class ArticlePage {
     //Positive DELETE Articles with ID
     @Step("I set DELETE api endpoints Article with ID")
     public String setDELETEApiEndpointArticleWithID(){
-        return url + "doctors/articles/f1fd3c22-50e7-422e-8853-ad8a8ff9903e";
+        return url + "doctors/articles/6bfd63ee-36b7-497f-bcf0-414bd327476a";
     }
 
     @Step("I send DELETE HTTP request Article with ID")

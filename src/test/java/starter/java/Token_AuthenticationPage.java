@@ -1,0 +1,7 @@
+package starter.java;
+
+public class Token_AuthenticationPage {
+    public static final String authToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE3MDIzODY4MDcsIm5hbWUiOiJEci4gQ2hpa2EgTWV5bGl0YSwgU3AuQmVkYWgiLCJyb2xlIjoiZG9jdG9yIiwidXNlcl9pZCI6Ijc2ZmJhZDllLTVjOGYtNDQ5MC1iN2FhLThmZmJjYjRhMzcxMiJ9.OY26naIHuCk2sx0VvaWu3P4Xn-WFQLQl_UYOCzEH4eg";
+
+    public static final String authTokenAdmin = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJuYW1lIjoiIiwicm9sZSI6ImFkbWluIiwidXNlcl9pZCI6IjVjN2EwOWQ4LWU3MGItNDA5NC05MTFjLTZlYjc4N2I5Mzc2YiJ9.kLBZ0cgaazK0v4Ln6GffR9XOhgXkQoQxw2wHUQeC8yU";
+}

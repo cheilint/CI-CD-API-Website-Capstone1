@@ -154,6 +154,7 @@ public class ForumsPage {
                 .put(setPUTApiEndpointForumReplies()).then().statusCode(200);
     }
 
+
     //Positive PUT forum replies invalid endpoint
     @Step("I set PUT endpoints Forum RepliesNeg1")
     public String setPUTApiEndpointForumRepliesNeg1() {
